@@ -11,5 +11,5 @@ Instructions:
 
 
 ## Add your names below:
-alumn1: Jaime
-alumn2: Lucas
+alumn1: jaime ramirez
+alumn2: lucas mateu
