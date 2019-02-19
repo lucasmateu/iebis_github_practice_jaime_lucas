@@ -11,5 +11,10 @@ Instructions:
 
 
 ## Add your names below:
-alumn1: jaime ramirez
-alumn2: lucas mateu
+-alumn1: jaime ramirez
+-alumn2: lucas mateu
+
+We can also add [links](https://ie.edu)
+And we can _italise_
+
+Hope this is **useful**
